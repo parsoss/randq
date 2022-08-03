@@ -1,0 +1,83 @@
+div{
+    display: inline;
+}
+/*
+font-family: 'Anton', sans-serif;
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Open Sans', sans-serif;
+*/
+
+#first{
+    font-family: 'Anton', sans-serif;
+}
+
+#second{
+    font-family: 'Caveat', cursive;
+}
+
+#third{
+    font-family: 'Dancing Script', cursive;
+}
+
+#fourth{
+    font-family: 'Fredoka One', cursive;
+}
+
+#fifth{
+    font-family: 'Indie Flower', cursive;
+}
+
+#sixth{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#seventh{
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+#eighth{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#ninth{
+    font-family: 'Cinzel', serif;
+}
+
+#settings{
+    width: 20px;
+    height: 20px;
+}
+
+.logo1{
+    background-position : left top;
+    display : inline-block ;
+    margin-top : 20px ;
+
+}
+
+.logo2{
+    background-position : left top;
+    display : inline-block ;
+    margin-top : 20px ;
+    max-width:500px;
+    transform: rotate(180deg);
+}
+
+#quotes{
+    width: 200px;
+}
+
+img{
+    max-width:100%;
+    width: 30px;
+    height: 30px;
+}
+
+body{
+    width: 200px;
+}
