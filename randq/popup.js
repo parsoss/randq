@@ -49,6 +49,10 @@ function getQuote(){
         {
             quote: "I think Microsoft named .Net so it wouldn't show up in a Unix directory listing.",
             source: "Oktal"
+        },
+        {
+            quote: "The purpose of our lives is to be happy.",
+            source: "Dalai Lama"
         }
     ]
     var randomNumber = Math.floor(Math.random() * quotes.length);
